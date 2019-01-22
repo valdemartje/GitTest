@@ -1,6 +1,9 @@
 class Main {
     public static void main(String[] args){
-      System.out.println("HelloWord");
+      String naam = "Vallie";
+      String greeting = "HeLlO, welcome back ";
+        
+      System.out.println(greeting + naam);
     }
 
 }
